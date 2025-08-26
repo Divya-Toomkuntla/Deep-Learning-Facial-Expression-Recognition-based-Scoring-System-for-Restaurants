@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual env
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Django
+*.log
+db.sqlite3
+media/
+staticfiles/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large data
+*.h5
+*.pkl
+*.pt
+*.onnx
+*.csv
+*.zip
+*.rar
